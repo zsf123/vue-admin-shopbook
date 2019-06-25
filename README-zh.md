@@ -1,2 +1,0 @@
-- ### 这个前台项目的后台是shopbook-express,想要访问后台数据，必须也要把这个项目克隆下来shopbook-express
-- ### cnpm install ->cnpm run dev
