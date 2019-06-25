@@ -1,0 +1,2 @@
+- ### 这个前台项目的后台是shopbook快车，想要访问后台数据，必须也要把这个项目克隆下来shopbook快车
+- ### cnpm install - > cnpm run dev
