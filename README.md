@@ -1,3 +1,5 @@
 - ### 这个前台项目的后台是shopbook-express，想要访问后台数据，必须也要把这个项目(shopbook-express)克隆下来
+- ### 首先进入shopbook-express项目根目录启动项目（cnpm install,cnpm run start）
+- ### 然后启动该项目步骤如下：
 - ### cnpm install 
 - ### cnpm run dev
